@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+.btn {
+    /* adding spacing between each button*/
+    margin: 3px;
+  
+}
+.gifDiv{
+    /* making the images go in one line rather than block & adding spacing between the images*/
+    float: left;
+    margin: 3px;
+}
+.container {
+	background-color:black;
+	opacity: 0.8;
+	padding: 20px;
+}
