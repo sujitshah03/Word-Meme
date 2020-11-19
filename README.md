@@ -1,2 +1,1 @@
-# week6Homework
-week6homework
+# word meme
